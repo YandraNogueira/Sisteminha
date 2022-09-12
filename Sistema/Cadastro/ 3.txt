@@ -1,1 +1,0 @@
-Identificador: 3 <br> Nome do Funcionário: Amanda <br> Cargo: Engenheira <br> Salário: 10000 <br> Qtd Dependentes: 7

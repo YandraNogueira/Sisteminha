@@ -1,1 +1,0 @@
-Identificador: 1 <br> Nome do Funcionário: José <br> Cargo: Professor <br> Salário: 2000 <br> Qtd Dependentes: 2

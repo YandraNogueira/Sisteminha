@@ -1,1 +1,0 @@
-Identificador: 2 <br> Nome do Funcionário: Aline <br> Cargo: Diretora <br> Salário: 4000 <br> Qtd Dependentes: 4

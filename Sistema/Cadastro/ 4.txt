@@ -1,1 +1,0 @@
-Identificador: 4 <br> Nome do Funcionário: Leandra <br> Cargo: Enfermeira <br> Salário: 2500 <br> Qtd Dependentes: 3
